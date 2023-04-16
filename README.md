@@ -34,6 +34,12 @@ Success here is measured with an f1 score.  We choose this measurement because h
 Findings from the data used are as follows: f1 score decreases slightly with more training data added for the thresholding approach, while it increases slightly with more training data added when using a convolutional neural network.  The optimum configuration out of those tried here used 3 network layers with 3 x 3 kernels and image window sizes of 128 pixels.
 
 
+### Please note:
+
+The notebook called "Kimberlin OCR final v1.ipynb" was used for Demo Day presentation slides.  It leaves out code to emphasize narrative summaries.  To see more of the actual code relevant to the project, please view "4 - image bin OCR f1_score comparison.ipynb."
+
+
+
 ## The Impact of This Work
 
 It is hoped that automatic transcription and translation of handwritten documents would reduce the cost and potential downside of viewing them and allow greater informational exchange across borders, cultures and languages than humanity has ever had.
